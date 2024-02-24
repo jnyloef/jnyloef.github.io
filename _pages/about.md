@@ -24,7 +24,11 @@ social: true # includes social icons at the bottom of the page
 
 ## Hi and welcome to my page! ##
 
-I am Jakob Nylof, master student in Mathematics at KTH Royal Institute of Technology. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Jakob Nylof, master student in mathematics at KTH Royal Institute of Technology. My research interests are control theory, optimization, reinforcement learning, stochastic control
+
+## Biography ##
+
+I was born in Sweden. I received a BSc in Engineering Physics and is currently completing a MSc in Mathematics both from KTH Royal Institute of Technology in Stockholm, Sweden, graduating in June 2024. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson](https://people.kth.se/~kallej/) and one at the University of Michigan supervised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/), which respectively led to publications.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
