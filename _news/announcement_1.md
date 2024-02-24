@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-01
+date: 2023-11
 inline: true
 related_posts: false
 ---
 
-Our paper Our paper [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://arxiv.org/pdf/2311.08998.pdf) is accepted for presentation at the American control Conference 2024 (Toronto)..
+Our paper [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://arxiv.org/pdf/2311.08998.pdf) is accepted for publications in the IEEE Control Systems Letters.

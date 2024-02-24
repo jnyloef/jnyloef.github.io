@@ -11,10 +11,10 @@ profile:
   more_info: >
     <p>BSc Engineering Physics</p>
     <p>MSc Mathematics</p>
-    <p>at [KTH Royal Institute of Technology](https://www.kth.se/en)</p>
+    <p>at <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a></p>
     <p>Stockholm, Sweden</p>
-    <p>[Google Scholar](https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en)</p>
-    <p>Email: [jnylof@kth.se](mailto:jnylof@kth.se)</p>
+    <p><a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a></p>
+    <p>Email: <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
