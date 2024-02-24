@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>BSc Engineering Physics</p>
-    <p>MSc Mathematics (current)</p>
+    <p>MSc Mathematics</p>
     <p>at [KTH Royal Institute of Technology](https://www.kth.se/en)</p>
     <p>Stockholm, Sweden</p>
     <p>[Google Scholar](https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en)</p>
