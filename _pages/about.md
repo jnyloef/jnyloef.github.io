@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #
 
 profile:
   align: right
@@ -30,6 +30,6 @@ I am Jakob Nylof, master student in mathematics at KTH Royal Institute of Techno
 
 I was born in Sweden. I received a BSc in Engineering Physics and is currently completing a MSc in Mathematics both from KTH Royal Institute of Technology in Stockholm, Sweden, graduating in June 2024. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson](https://people.kth.se/~kallej/) and one at the University of Michigan supervised by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/), which respectively led to publications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
