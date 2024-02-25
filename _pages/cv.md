@@ -1,4 +1,8 @@
 ---
 layout: redirected
 permalink: /cv/
-redirect_to: https://assets/pdf/example_pdf.pdf---
+title: cv
+nav: true
+nav_order: 5
+redirect_to: https://assets/pdf/example_pdf.pdf
+---
