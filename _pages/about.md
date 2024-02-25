@@ -15,6 +15,8 @@ profile:
 
     <p><i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a><br></p>
 
+    <p><i class="fa-brands fa-github"></i> <a href="https://github.com/jnyloef">Github</a><br></p>
+
     <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/jakob-nyl%C3%B6f-10571b183/">LinkedIn</a></p>
     
 news: true # includes a list of news items
