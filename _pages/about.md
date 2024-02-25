@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a></p>
-    <p>Email: <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
+    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
+    <p><i class="fa-brands fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a></p>
+    <p><i class="fa-brands fa-orcid"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
+    <p><i class="fa-brands fa-linkedin"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
     
 
 news: true # includes a list of news items
@@ -25,4 +27,4 @@ I am Jakob Nylof, master student in mathematics at KTH Royal Institute of Techno
 
 ## Biography ##
 
-I was born in Sweden. I received a BSc in Engineering Physics and is currently completing a MSc in Mathematics both from KTH Royal Institute of Technology in Stockholm, Sweden, graduating in June 2024. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson](https://people.kth.se/~kallej/) and one at the University of Michigan supervised by Prof. Necmiye Ozay, which led to two [publications](/publications/).
+I was born in Sweden. I received a BSc in Engineering Physics from KTH Royal Institute of Technology in Stockholm, Sweden and I am currently completing a MSc in Mathematics from KTH, graduating in June 2024. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson](https://people.kth.se/~kallej/) and one at the University of Michigan supervised by Prof. Necmiye Ozay, which led to two [publications](/publications/).
