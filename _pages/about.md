@@ -27,10 +27,10 @@ social: false # includes social icons at the bottom of the page
 
 I am Jakob Nylof, master student in mathematics at KTH Royal Institute of Technology. My research interests lie in the intersection of control theory, optimization, reinforcement learning and stochastic control. I also have an interest in physics, in particular quantum computing.
 
-Besides research, I play electric guitar and I really enjoy outdoor activities such as hiking and skiing.
+In my free time, I play electric guitar and I really enjoy outdoor activities such as hiking and skiing.
 
 **Currently looking for a PhD position** - Feel free to contact me via email. I would be happy to provide any additional information.
 
-## Biography ##
+## biography ##
 
 I was born in Sweden. I received a BSc in Engineering Physics from KTH Royal Institute of Technology in Stockholm, Sweden and I am currently completing a MSc in Mathematics from KTH, graduating in June 2024. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson](https://people.kth.se/~kallej/) and one at the University of Michigan supervised by Prof. Necmiye Ozay, which led to one [publication](/publications/) respectively.
