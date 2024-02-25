@@ -10,11 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fa-solid fa-location-dot"></i> Stockholm, Sweden</p>
-    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:jnylof@kth.se">Email</a></p>
-    <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/jakob-nyl%C3%B6f-10571b183/">LinkedIn</a></p>
-    <p><i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a></p>
-    
 
+    <p><i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a></p>
+
+    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:jnylof@kth.se">Email</a></p>
+
+    <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/jakob-nyl%C3%B6f-10571b183/">LinkedIn</a></p>
+    
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
