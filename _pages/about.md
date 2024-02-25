@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i class="fa-solid fa-location-dot"></i> Stockholm, Sweden</p>
+    <p><i class="fa-solid fa-location-dot"></i> Stockholm, Sweden<br></p>
 
-    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
+    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a><br></p>
 
-    <p><i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a></p>
+    <p><i class="fa-solid fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a><br></p>
 
     <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/jakob-nyl%C3%B6f-10571b183/">LinkedIn</a></p>
     
