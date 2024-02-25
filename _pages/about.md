@@ -33,4 +33,4 @@ In my free time, I play electric guitar and I really enjoy outdoor activities su
 
 ## biography ##
 
-I was born in Sweden. I received a BSc in Engineering Physics from KTH Royal Institute of Technology in Stockholm, Sweden and I am currently completing a MSc in Mathematics from KTH, graduating in June 2024. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson](https://people.kth.se/~kallej/) and one at the University of Michigan supervised by Prof. Necmiye Ozay, which led to one [publication](/publications/) respectively.
+I was born in Sweden. I received a BSc in Engineering Physics from KTH Royal Institute of Technology in Stockholm, Sweden and I am currently completing a MSc in Mathematics from KTH, graduating in June 2024. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson](https://people.kth.se/~kallej/) and one at the University of Michigan supervised by Prof. Necmiye Ozay, which each led [publications](/publications/).
