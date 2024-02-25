@@ -11,8 +11,7 @@ profile:
   more_info: >
     <p><i class="fa-solid fa-envelope"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
     <p><i class="fa-brands fa-google-scholar"></i> <a href="https://scholar.google.com/citations?user=jVDb3CAAAAAJ&hl=en">Google Scholar</a></p>
-    <p><i class="fa-brands fa-orcid"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
-    <p><i class="fa-brands fa-linkedin"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a></p>
+    <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/jakob-nyl%C3%B6f-10571b183/">Linkedin</a></p>
     
 
 news: true # includes a list of news items
@@ -21,9 +20,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## Hi and welcome to my page! ##
+## Hi, welcome to my page! ##
 
-I am Jakob Nylof, master student in mathematics at KTH Royal Institute of Technology. My research interests are control theory, optimization, reinforcement learning, stochastic control
+I am Jakob Nylof, master student in mathematics at KTH Royal Institute of Technology. My research interests lie in the intersection of control theory, optimization, reinforcement learning and stochastic control. I also have an interest in physics, in particular quantum computing.
+
+Besides research, I play electric guitar and I really enjoy outdoor activities such as hiking and skiing.
+
+**Currently looking for a PhD position** - Feel free to contact me via email. I would be happy to provide any additional information.
 
 ## Biography ##
 
