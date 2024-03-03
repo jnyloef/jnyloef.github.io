@@ -27,7 +27,7 @@ social: false # includes social icons at the bottom of the page
 
 ## Hi, welcome to my page! ##
 
-I'm a master student in mathematics at KTH Royal Institute of Technology. My research interests lie in the intersection of control theory, optimization, reinforcement learning and stochastic control. I also have an interest in physics, in particular quantum computing.
+I'm a master student in mathematics at KTH Royal Institute of Technology(https://www.kth.se/en). My research interests lie in the intersection of control theory, optimization, reinforcement learning and stochastic control. I also have an interest in physics, in particular quantum computing.
 
 In my free time, I play electric guitar and really enjoy outdoor activities such as hiking and skiing.
 
@@ -35,7 +35,7 @@ In my free time, I play electric guitar and really enjoy outdoor activities such
 
 ## biography ##
 
-I was born in Sweden. I received a BSc in Engineering Physics from [KTH Royal Institute of Technology][https://www.kth.se/en] in Stockholm, Sweden and I am currently completing a MSc in Mathematics from the same institution, graduating in June 2024. My master thesis is about Q-learning in continuous time, supervised by Prof. [Boualem Djehiche][boualem]. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson][kalle] and one at the University of Michigan supervised by Prof. [Necmiye Ozay][necmiye], which each led to [publications][publications]. I have also completed an exchange semester at ETH Zürich while studying physics, where my courses were centered around quantum computation.
+I was born in Sweden. I received a BSc in Engineering Physics from KTH Royal Institute of Technology and I am currently completing a MSc in Mathematics from the same institution, graduating in June 2024. My master thesis is about Q-learning in continuous time, supervised by Prof. [Boualem Djehiche][boualem]. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson][kalle] and one at the University of Michigan supervised by Prof. [Necmiye Ozay][necmiye], which each led to [publications][publications]. I have also completed an exchange semester at ETH Zürich while studying physics, where my courses were centered around quantum computation.
 
 [boualem]: https://people.kth.se/~boualem/
 [kalle]: https://people.kth.se/~kallej/
