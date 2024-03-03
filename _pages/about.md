@@ -37,7 +37,7 @@ In my free time, I play electric guitar and really enjoy outdoor activities such
 
 I was born in Sweden. I received a BSc in Engineering Physics from KTH Royal Institute of Technology in Stockholm, Sweden and I am currently completing a MSc in Mathematics from KTH, graduating in June 2024. My master thesis is about Q-learning in continuous time, supervised by Prof. [Boualem Djehiche][boualem]. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson][kalle] and one at the University of Michigan supervised by Prof. [Necmiye Ozay][necmiye], which each led to [publications][publications]. I have also completed an exchange semester at ETH Zürich while studying physics, where my courses were centered around quantum computation.
 
-[boulaem]: https://people.kth.se/~boualem/
+[boualem]: https://people.kth.se/~boualem/
 [kalle]: https://people.kth.se/~kallej/
 [necmiye]: https://web.eecs.umich.edu/~necmiye/
 [publications]: /publications/
