@@ -27,7 +27,7 @@ social: false # includes social icons at the bottom of the page
 
 ## Hi, welcome to my page! ##
 
-I am Jakob Nylöf, master student in mathematics at KTH Royal Institute of Technology. My research interests lie in the intersection of control theory, optimization, reinforcement learning and stochastic control. I also have an interest in physics, in particular quantum computing.
+I'm a master student in mathematics at KTH Royal Institute of Technology. My research interests lie in the intersection of control theory, optimization, reinforcement learning and stochastic control. I also have an interest in physics, in particular quantum computing.
 
 In my free time, I play electric guitar and really enjoy outdoor activities such as hiking and skiing.
 
