@@ -29,9 +29,9 @@ social: false # includes social icons at the bottom of the page
 
 I'm a doctoral student at the [Automatic Control Laboratory][LA] and [Risk Analytics and Optimization Chair][RAO] at EPFL, as well as the [Automatic Control Laboratory][IfA] at ETH Zürich. I am jointly supervised by Prof. [Giancarlo Ferrari Trecate][gianni], Prof. [Daniel Kuhn][daniel] and Prof. [John Lygeros][john]. My research interests lie in the intersection of control theory, stochastic programming and robust optimization, with a key focus on distributionally robust optimal control.
 
-## Biography ##
+## biography ##
 
-I received a BSc in Engineering Physics from KTH Royal Institute of Technology in 2021 and a MSc in Mathematics in 2024 from the same institution. My master thesis was on [Deep Q-learning in continuous time][masterthesis], supervised by Prof. [Boualem Djehiche][boualem]. During my studies, I was a summer researcher at KTH under the supervision of Prof. [Karl H. Johansson][kalle] and at the University of Michigan where I was supervised by Prof. [Necmiye Ozay][necmiye]. I also had an exchange semester at ETH Zürich.
+I received a BSc in Engineering Physics from KTH Royal Institute of Technology in 2021 and a MSc in Mathematics in 2024 from the same institution. My master thesis was on [deep Q-learning in continuous time][masterthesis], supervised by Prof. [Boualem Djehiche][boualem]. During my studies, I was a summer researcher at KTH under the supervision of Prof. [Karl H. Johansson][kalle] and at the University of Michigan where I was supervised by Prof. [Necmiye Ozay][necmiye]. I also had an exchange semester at ETH Zürich.
 
 
 [LA]: https://www.epfl.ch/labs/la/
