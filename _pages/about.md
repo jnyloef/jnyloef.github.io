@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i class="fa-solid fa-location-dot"></i> Stockholm, Sweden<br></p>
+    <p><i class="fa-solid fa-location-dot"></i> Lausanne, Switzerland<br></p>
 
     <p><i class="fa-solid fa-envelope"></i> <a href="mailto:jnylof@kth.se">jnylof@kth.se</a><br></p>
 
