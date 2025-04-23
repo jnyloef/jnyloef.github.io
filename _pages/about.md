@@ -27,15 +27,11 @@ social: false # includes social icons at the bottom of the page
 
 ## Hi, welcome to my page! ##
 
-I'm a master student in mathematics at [KTH Royal Institute of Technology](https://www.kth.se/en). My research interests lie in the intersection of control theory, optimization, reinforcement learning and stochastic control. I also have an interest in physics, in particular quantum computing.
+I'm a doctoral student at the [Automatic Control Laboratory][https://www.epfl.ch/labs/la/] and [Risk Analytics and Optimization Chair][https://www.epfl.ch/labs/rao/] at EPFL, as well as the [Automatic Control Laboratory][https://control.ee.ethz.ch/] at ETH Zürich. I am jointly supervised by Prof. [Giancarlo Ferrari Trecate][https://people.epfl.ch/giancarlo.ferraritrecate], Prof. [Daniel Kuhn][https://people.epfl.ch/daniel.kuhn] and Prof. [John Lygeros][https://control.ee.ethz.ch/people/profile.john-lygeros.html]. My research interests lie in the intersection of control theory, stochastic programming and robust optimization, with a key focus on distributionally robust optimal control.
 
-In my free time, I play electric guitar and really enjoy outdoor activities such as hiking and skiing.
+## Biography ##
 
-**Currently looking for a PhD position** - Feel free to contact me via email. I would be happy to provide any additional information.
-
-## biography ##
-
-I was born in Sweden. I received a BSc in Engineering Physics from KTH Royal Institute of Technology and I am currently completing a MSc in Mathematics from the same institution, graduating in June 2024. My master thesis is about Q-learning in continuous time, supervised by Prof. [Boualem Djehiche][boualem]. During my studies I have completed two research internships: one at KTH under supervision of Prof. [Karl H. Johansson][kalle] and one at the University of Michigan supervised by Prof. [Necmiye Ozay][necmiye], which each led to [publications][publications]. I have also completed an exchange semester at ETH Zürich while studying physics, where my courses were centered around quantum computation.
+I received a BSc in Engineering Physics from KTH Royal Institute of Technology in 2021 and a MSc in Mathematics in 2024 from the same institution. My master thesis was on [Deep Q-learning in continuous time][https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1923803&dswid=-163], supervised by Prof. [Boualem Djehiche][boualem]. During my studies, I was a summer researcher at KTH under the supervision of Prof. [Karl H. Johansson][kalle] and at the University of Michigan where I was supervised by Prof. [Necmiye Ozay][necmiye]. I also had an exchange semester at ETH Zürich.
 
 [boualem]: https://people.kth.se/~boualem/
 [kalle]: https://people.kth.se/~kallej/
