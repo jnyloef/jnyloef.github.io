@@ -33,6 +33,15 @@ I'm a doctoral student at the [Automatic Control Laboratory][LA] and [Risk Analy
 
 I received a BSc in Engineering Physics from KTH Royal Institute of Technology in 2021 and a MSc in Mathematics in 2024 from the same institution. My master thesis was on [deep Q-learning in continuous time][masterthesis], supervised by Prof. [Boualem Djehiche][boualem]. During my studies, I was a summer researcher at KTH under the supervision of Prof. [Karl H. Johansson][kalle] and at the University of Michigan where I was supervised by Prof. [Necmiye Ozay][necmiye]. I also had an exchange semester at ETH Zürich.
 
+## distributionally robust optimization ##
+
+See the following video which summarizes the concept of distributionally robust optimization.
+
+<video width="640" height="360" controls>
+  <source src="assets/video/WassersteinAmbiguitySet.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 [LA]: https://www.epfl.ch/labs/la/
 [RAO]: https://www.epfl.ch/labs/rao/
