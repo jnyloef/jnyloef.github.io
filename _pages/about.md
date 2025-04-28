@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: #
 
@@ -29,19 +29,18 @@ social: false # includes social icons at the bottom of the page
 
 I'm a doctoral student at the [Automatic Control Laboratory][LA] and [Risk Analytics and Optimization Chair][RAO] at EPFL, as well as the [Automatic Control Laboratory][IfA] at ETH Zürich. I am jointly supervised by Prof. [Giancarlo Ferrari Trecate][gianni], Prof. [Daniel Kuhn][daniel] and Prof. [John Lygeros][john]. My research interests lie in the intersection of control theory, stochastic programming and robust optimization, with a key focus on distributionally robust optimal control.
 
-## biography ##
+## Biography ##
 
 I received a BSc in Engineering Physics from KTH Royal Institute of Technology in 2021 and a MSc in Mathematics in 2024 from the same institution. My master thesis was on [deep Q-learning in continuous time][masterthesis], supervised by Prof. [Boualem Djehiche][boualem]. During my studies, I was a summer researcher at KTH under the supervision of Prof. [Karl H. Johansson][kalle] and at the University of Michigan where I was supervised by Prof. [Necmiye Ozay][necmiye]. I also had an exchange semester at ETH Zürich.
 
-## distributionally robust optimization ##
+## Distributionally Robust Optimization ##
 
-See the following video which summarizes the concept of distributionally robust optimization.
+In Distributionally Robust Optimization (DRO), the goal is to minimize a risk measure, such as the expected value of a loss function, while accounting for uncertainty in the underlying probability distribution. Instead of assuming a known distribution, DRO minimizes the worst-case expectation over a set of plausible distributions (the ambiguity set). This ensures robustness by finding the best decision under the worst possible distribution, safeguarding against model uncertainty.
 
 <video width="640" height="360" controls>
   <source src="assets/video/WassersteinAmbiguitySet.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 [LA]: https://www.epfl.ch/labs/la/
 [RAO]: https://www.epfl.ch/labs/rao/
